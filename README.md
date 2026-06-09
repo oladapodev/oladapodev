@@ -36,8 +36,8 @@
 
   <!-- Stats Section (Side by Side & Color Matched) -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=oladapodev&show_icons=true&theme=cobalt&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oladapodev&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117" height="170" alt="Top Languages" />
+    <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+    <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
   </div>
 
   <br>
