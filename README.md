@@ -34,10 +34,9 @@
 
   <br>
 
-  <!-- Stats Section (Side by Side & Color Matched) -->
+  <!-- Stats Section (Color Matched) -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
-    <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
   </div>
 
   <br>
